@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WamFlo
-- 👀 I’m interested in re-learning coding
+- 👀 I’m interested in re-learn coding
 - 🌱 I’m currently learning Kotlin by using AndroidStudio
 - 💞️ I’m looking to finish my first Android App I can use for my brain health
 - 📫 You can drop me an email to wamflodevtest@gmail.com. I look forward answering success wishes 
